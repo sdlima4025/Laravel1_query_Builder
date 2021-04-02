@@ -1,2 +1,2 @@
-# Laravel1_query_Builder
+# Laravel1
 Estudando QueryBuilder
